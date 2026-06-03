@@ -60,15 +60,15 @@ st.markdown("""
 
 @st.cache_data
 def cargar_preguntas():
-with open("preguntas.json", "r", encoding="utf-8") as f:
-data = json.load(f)
+    with open("preguntas.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-niveles = {}
+    niveles = {}
 
-for clave, valor in data.items():
-    niveles[int(clave)] = valor
+    for clave, valor in data.items():
+        niveles[int(clave)] = valor
 
-return niveles
+    return niveles
 
 niveles = cargar_preguntas()
 
