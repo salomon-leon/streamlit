@@ -1,0 +1,660 @@
+{
+  "1": {
+    "nombre": "Past Simple",
+    "descripcion": "En este nivel deberás identificar verbos en pasado simple.\nSelecciona la opción correcta en cada pregunta.",
+    "minimo": 70,
+    "tiempo": 25,
+    "cantidad": 8,
+    "preguntas": [
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "She go to school yesterday.",
+          "She went to school yesterday.",
+          "She goes to school yesterday.",
+          "She going to school yesterday."
+        ],
+        "respuesta": "She went to school yesterday.",
+        "explicacion": "'Went' es el pasado de go."
+      },
+      {
+        "pregunta": "What is the past of eat?",
+        "opciones": [
+          "Eated",
+          "Eating",
+          "Ate",
+          "Eats"
+        ],
+        "respuesta": "Ate",
+        "explicacion": "El pasado de eat es ate."
+      },
+      {
+        "pregunta": "Complete: They _____ soccer yesterday.",
+        "opciones": [
+          "play",
+          "played",
+          "plays",
+          "playing"
+        ],
+        "respuesta": "played",
+        "explicacion": "Usamos played porque la acción ocurrió en el pasado."
+      },
+      {
+        "pregunta": "Choose the correct verb.",
+        "opciones": [
+          "goed",
+          "went",
+          "goes",
+          "gone"
+        ],
+        "respuesta": "went",
+        "explicacion": "El pasado de go es went."
+      },
+      {
+        "pregunta": "Complete: I _____ TV last night.",
+        "opciones": [
+          "watch",
+          "watched",
+          "watching",
+          "watches"
+        ],
+        "respuesta": "watched",
+        "explicacion": "Watched es el pasado de watch."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "We visited Paris.",
+          "We visit Paris yesterday.",
+          "We visiting Paris.",
+          "We visits Paris."
+        ],
+        "respuesta": "We visited Paris.",
+        "explicacion": "Visited es pasado simple."
+      },
+      {
+        "pregunta": "Complete: She _____ her homework.",
+        "opciones": [
+          "finish",
+          "finished",
+          "finishes",
+          "finishing"
+        ],
+        "respuesta": "finished",
+        "explicacion": "Finished es el pasado de finish."
+      },
+      {
+        "pregunta": "Choose the past of write.",
+        "opciones": [
+          "writed",
+          "wrote",
+          "written",
+          "writes"
+        ],
+        "respuesta": "wrote",
+        "explicacion": "Wrote es el pasado de write."
+      },
+      {
+        "pregunta": "Complete: They _____ dinner at 8 p.m.",
+        "opciones": [
+          "eat",
+          "ate",
+          "eaten",
+          "eating"
+        ],
+        "respuesta": "ate",
+        "explicacion": "Ate es pasado simple."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "He played soccer.",
+          "He play soccer yesterday.",
+          "He playing soccer.",
+          "He plays soccer yesterday."
+        ],
+        "respuesta": "He played soccer.",
+        "explicacion": "Played está en pasado simple."
+      },
+      {
+        "pregunta": "Complete: We _____ to the beach.",
+        "opciones": [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        "respuesta": "went",
+        "explicacion": "Went es pasado simple."
+      },
+      {
+        "pregunta": "Choose the past of see.",
+        "opciones": [
+          "saw",
+          "seen",
+          "see",
+          "seed"
+        ],
+        "respuesta": "saw",
+        "explicacion": "Saw es el pasado de see."
+      },
+      {
+        "pregunta": "Complete: My mom _____ a cake.",
+        "opciones": [
+          "cook",
+          "cooked",
+          "cooks",
+          "cooking"
+        ],
+        "respuesta": "cooked",
+        "explicacion": "Cooked es pasado simple."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "They studied English.",
+          "They study English yesterday.",
+          "They studies English.",
+          "They studying English."
+        ],
+        "respuesta": "They studied English.",
+        "explicacion": "Studied está en pasado simple."
+      },
+      {
+        "pregunta": "Complete: I _____ my keys.",
+        "opciones": [
+          "lost",
+          "lose",
+          "loses",
+          "losing"
+        ],
+        "respuesta": "lost",
+        "explicacion": "Lost es el pasado de lose."
+      }
+    ]
+  },
+
+ "2": {
+    "nombre": "Comparatives",
+    "descripcion": "En este nivel trabajarás comparativos.\nDebes elegir la comparación correcta.",
+    "minimo": 75,
+    "tiempo": 30,
+    "cantidad": 8,
+    "preguntas": [
+      {
+        "pregunta": "My car is _____ than yours.",
+        "opciones": [
+          "fast",
+          "faster",
+          "fastest",
+          "more fast"
+        ],
+        "respuesta": "faster",
+        "explicacion": "Faster es el comparativo correcto."
+      },
+      {
+        "pregunta": "Choose the correct comparative. (beautiful)",
+        "opciones": [
+          "more beautiful",
+          "beautifuler",
+          "most beautiful",
+          "beautifullest"
+        ],
+        "respuesta": "more beautiful",
+        "explicacion": "Con adjetivos largos usamos more."
+      },
+      {
+        "pregunta": "Math is _____ than history.",
+        "opciones": [
+          "difficult",
+          "more difficult",
+          "most difficult",
+          "difficulter"
+        ],
+        "respuesta": "more difficult",
+        "explicacion": "Usamos more difficult."
+      },
+      {
+        "pregunta": "My house is _____ than yours.",
+        "opciones": [
+          "big",
+          "bigger",
+          "biggest",
+          "more big"
+        ],
+        "respuesta": "bigger",
+        "explicacion": "Big cambia a bigger."
+      },
+      {
+        "pregunta": "Choose the correct answer. (small)",
+        "opciones": [
+          "smaller",
+          "smallest",
+          "small",
+          "most small"
+        ],
+        "respuesta": "smaller",
+        "explicacion": "Smaller es comparativo."
+      },
+      {
+        "pregunta": "This book is _____ than that one.",
+        "opciones": [
+          "interesting",
+          "more interesting",
+          "interestinger",
+          "most interesting"
+        ],
+        "respuesta": "more interesting",
+        "explicacion": "More interesting es correcto."
+      },
+      {
+        "pregunta": "Today is _____ than yesterday.",
+        "opciones": [
+          "hot",
+          "hotter",
+          "hottest",
+          "more hot"
+        ],
+        "respuesta": "hotter",
+        "explicacion": "Hot se convierte en hotter."
+      },
+      {
+        "pregunta": "Choose the comparative of good.",
+        "opciones": [
+          "gooder",
+          "better",
+          "best",
+          "more good"
+        ],
+        "respuesta": "better",
+        "explicacion": "Better es el comparativo irregular de good."
+      },
+      {
+        "pregunta": "English is _____ than math.",
+        "opciones": [
+          "easy",
+          "easier",
+          "easiest",
+          "more easy"
+        ],
+        "respuesta": "easier",
+        "explicacion": "Easy cambia a easier."
+      },
+      {
+        "pregunta": "My dog is _____ than yours.",
+        "opciones": [
+          "friendly",
+          "friendlier",
+          "friendliest",
+          "more friendly"
+        ],
+        "respuesta": "friendlier",
+        "explicacion": "Friendly cambia a friendlier."
+      },
+      {
+        "pregunta": "Choose the correct comparative. (expensive)",
+        "opciones": [
+          "more expensive",
+          "expensiver",
+          "most expensive",
+          "expensive"
+        ],
+        "respuesta": "more expensive",
+        "explicacion": "Expensive usa more."
+      },
+      {
+        "pregunta": "This test is _____ than the last one.",
+        "opciones": [
+          "hard",
+          "harder",
+          "hardest",
+          "more hard"
+        ],
+        "respuesta": "harder",
+        "explicacion": "Hard cambia a harder."
+      },
+      {
+        "pregunta": "Choose the comparative of bad.",
+        "opciones": [
+          "badder",
+          "worse",
+          "worst",
+          "more bad"
+        ],
+        "respuesta": "worse",
+        "explicacion": "Worse es irregular."
+      },
+      {
+        "pregunta": "Winter is _____ than summer.",
+        "opciones": [
+          "cold",
+          "colder",
+          "coldest",
+          "more cold"
+        ],
+        "respuesta": "colder",
+        "explicacion": "Colder es comparativo."
+      },
+      {
+        "pregunta": "This exercise is _____ than the previous one.",
+        "opciones": [
+          "easy",
+          "easier",
+          "easiest",
+          "more easier"
+        ],
+        "respuesta": "easier",
+        "explicacion": "Easier es correcto."
+      }
+    ]
+  },
+
+  "3": {
+    "nombre": "Present Perfect",
+    "descripcion": "Selecciona la forma correcta del Present Perfect.",
+    "minimo": 75,
+    "tiempo": 35,
+    "cantidad": 8,
+    "preguntas": [
+      {
+        "pregunta": "Complete: I _____ to Japan.",
+        "opciones": ["have gone", "has gone", "have went", "has went"],
+        "respuesta": "have gone",
+        "explicacion": "El sujeto 'I' utiliza el auxiliar 'have' y el participio del verbo es 'gone'."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "She has finished her homework.",
+          "She have finished her homework.",
+          "She has finish her homework.",
+          "She have finishing her homework."
+        ],
+        "respuesta": "She has finished her homework.",
+        "explicacion": "Para 'She' se utiliza 'has' seguido del verbo regular en participio (-ed)."
+      },
+      {
+        "pregunta": "Complete: We _____ this movie before.",
+        "opciones": ["have seen", "has seen", "have saw", "has seeing"],
+        "respuesta": "have seen",
+        "explicacion": "'We' requiere el auxiliar 'have' y el participio correcto de see es 'seen'."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "They have lived here for years.",
+          "They has lived here for years.",
+          "They have live here for years.",
+          "They has living here for years."
+        ],
+        "respuesta": "They have lived here for years.",
+        "explicacion": "El sujeto plural 'They' se acompaña con 'have' y el participio 'lived'."
+      },
+      {
+        "pregunta": "Complete: He _____ his keys.",
+        "opciones": ["has lost", "have lost", "has lose", "have losing"],
+        "respuesta": "has lost",
+        "explicacion": "He va con 'has'. El participio de lose es 'lost'."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "I have never eaten sushi.",
+          "I has never eaten sushi.",
+          "I have never ate sushi.",
+          "I has never eat sushi."
+        ],
+        "respuesta": "I have never eaten sushi.",
+        "explicacion": "'I' se combina con 'have' y el participio correcto es 'eaten' (no el pasado 'ate')."
+      },
+      {
+        "pregunta": "Complete: She _____ in this city since 2010.",
+        "opciones": ["has lived", "have lived", "has live", "have living"],
+        "respuesta": "has lived",
+        "explicacion": "Tercera persona requiere 'has' y el verbo principal en participio pasado."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "We have just had lunch.",
+          "We has just had lunch.",
+          "We have just have lunch.",
+          "We has just having lunch."
+        ],
+        "respuesta": "We have just had lunch.",
+        "explicacion": "Usamos 'have' para el sujeto 'We' y 'had' como el participio del verbo tener/tomar."
+      },
+      {
+        "pregunta": "Complete: They Already _____ the work.",
+        "opciones": ["have finished", "has finished", "have finish", "has finishing"],
+        "respuesta": "have finished",
+        "explicacion": "'They' utiliza el auxiliar 'have' junto al participio 'finished'."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "I have done my homework.",
+          "I has done my homework.",
+          "I have did my homework.",
+          "I has doing my homework."
+        ],
+        "respuesta": "I have done my homework.",
+        "explicacion": "El participio del verbo do es 'done' y se acompaña con 'have' para la primera persona."
+      },
+      {
+        "pregunta": "Complete: She _____ the book twice.",
+        "opciones": ["has read", "have read", "has reads", "have reading"],
+        "respuesta": "has read",
+        "explicacion": "Se usa 'has' para 'She'. El participio de read se escribe igual pero cambia su pronunciación."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "We have bought a new car.",
+          "We has bought a new car.",
+          "We have buy a new car.",
+          "We has buying a new car."
+        ],
+        "respuesta": "We have bought a new car.",
+        "explicacion": "'We' se conecta con 'have' y el participio irregular de buy es 'bought'."
+      },
+      {
+        "pregunta": "Complete: He _____ his leg.",
+        "opciones": ["has broken", "have broken", "has broke", "have breaking"],
+        "respuesta": "has broken",
+        "explicacion": "El auxiliar correcto para 'He' es 'has' y el participio de break es 'broken'."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "They have gone to London.",
+          "They has gone to London.",
+          "They have went to London.",
+          "They has going to London."
+        ],
+        "respuesta": "They have gone to London.",
+        "explicacion": "'They' utiliza 'have'. Se debe usar el participio 'gone' en lugar del pasado simple 'went'."
+      },
+      {
+        "pregunta": "Complete: I _____ that movie.",
+        "opciones": ["have seen", "has seen", "have saw", "has seeing"],
+        "respuesta": "have seen",
+        "explicacion": "La estructura requiere 'have' para el sujeto 'I' junto al participio 'seen'."
+      }
+    ]
+  },
+"4": {
+    "nombre": "Future Simple",
+    "descripcion": "Selecciona la forma correcta del Future Simple.",
+    "minimo": 80,
+    "tiempo": 40,
+    "cantidad": 8,
+    "preguntas": [
+      {
+        "pregunta": "Choose the correct sentence for tomorrow.",
+        "opciones": [
+          "I will finish my project.",
+          "I will finishing my project.",
+          "I will finished my project.",
+          "I will finishes my project."
+        ],
+        "respuesta": "I will finish my project.",
+        "explicacion": "El futuro simple exige que 'will' vaya seguido del verbo en su forma base (finish)."
+      },
+      {
+        "pregunta": "Complete: She _____ by 8 PM.",
+        "opciones": [
+          "will arrive",
+          "will arriving",
+          "will arrived",
+          "will arrives"
+        ],
+        "respuesta": "will arrive",
+        "explicacion": "La estructura correcta es el auxiliar 'will' más el infinitivo sin 'to' (arrive)."
+      },
+      {
+        "pregunta": "Choose the correct future sentence.",
+        "opciones": [
+          "They will build the house next year.",
+          "They will building the house next year.",
+          "They will builds the house next year.",
+          "They will built the house next year."
+        ],
+        "respuesta": "They will build the house next year.",
+        "explicacion": "Se requiere la forma base del verbo ('build') junto al auxiliar para hablar del futuro."
+      },
+      {
+        "pregunta": "Complete: At 5 PM, we _____ dinner.",
+        "opciones": [
+          "will eat",
+          "will eating",
+          "will eaten",
+          "will ate"
+        ],
+        "respuesta": "will eat",
+        "explicacion": "'Will eat' es la combinación correcta; no se usan gerundios, participios ni pasados con will."
+      },
+      {
+        "pregunta": "Choose the correct option: He _____ the exam on Monday.",
+        "opciones": [
+          "will take",
+          "will took",
+          "will taken",
+          "will taking"
+        ],
+        "respuesta": "will take",
+        "explicacion": "Después de 'will', el verbo principal siempre se mantiene en su forma base ('take')."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "I will do my homework tonight.",
+          "I will did my homework tonight.",
+          "I will doing my homework tonight.",
+          "I will does my homework tonight."
+        ],
+        "respuesta": "I will do my homework tonight.",
+        "explicacion": "'Will do' es la única forma gramaticalmente correcta para el futuro simple."
+      },
+      {
+        "pregunta": "Complete: They _____ the project in June.",
+        "opciones": [
+          "will complete",
+          "will completed",
+          "will completing",
+          "will completes"
+        ],
+        "respuesta": "will complete",
+        "explicacion": "Usamos el infinitivo 'complete' detrás del auxiliar de futuro."
+      },
+      {
+        "pregunta": "Choose the correct future sentence.",
+        "opciones": [
+          "She will finish her degree next year.",
+          "She will finishes her degree next year.",
+          "She will finishing her degree next year.",
+          "She will finished her degree next year."
+        ],
+        "respuesta": "She will finish her degree next year.",
+        "explicacion": "Aunque el sujeto sea tercera persona ('She'), el verbo principal no lleva 's' si va con 'will'."
+      },
+      {
+        "pregunta": "Complete: We _____ the house before winter.",
+        "opciones": [
+          "will paint",
+          "will painted",
+          "will painting",
+          "will paints"
+        ],
+        "respuesta": "will paint",
+        "explicacion": "La estructura del futuro simple no admite terminaciones como -ed, -ing o -s tras el auxiliar."
+      },
+      {
+        "pregunta": "Choose the correct option: Next year, he _____ in Bolivia.",
+        "opciones": [
+          "will live",
+          "will lived",
+          "will living",
+          "will lives"
+        ],
+        "respuesta": "will live",
+        "explicacion": "'Will live' emplea correctamente la forma base del verbo para indicar tiempo futuro."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "They will win the game tonight.",
+          "They will won the game tonight.",
+          "They will winning the game tonight.",
+          "They will wins the game tonight."
+        ],
+        "respuesta": "They will win the game tonight.",
+        "explicacion": "El verbo irregular 'win' debe aparecer en su forma base infinitiva."
+      },
+      {
+        "pregunta": "Complete: I _____ the book tomorrow.",
+        "opciones": [
+          "will read",
+          "will reads",
+          "will reading",
+          "will red"
+        ],
+        "respuesta": "will read",
+        "explicacion": "'Will read' es la única opción que respeta la regla de la forma base."
+      },
+      {
+        "pregunta": "Choose the correct option: She _____ the report on Friday.",
+        "opciones": [
+          "will write",
+          "will wrote",
+          "will written",
+          "will writing"
+        ],
+        "respuesta": "will write",
+        "explicacion": "Se debe descartar el pasado (wrote) y el participio (written); solo la forma base 'write' es válida."
+      },
+      {
+        "pregunta": "Choose the correct sentence.",
+        "opciones": [
+          "We will have lunch at noon.",
+          "We will had lunch at noon.",
+          "We will having lunch at noon.",
+          "We will has lunch at noon."
+        ],
+        "respuesta": "We will have lunch at noon.",
+        "explicacion": "'Will have' es la conjugación correcta. Formas como 'has' o 'had' quedan descartadas tras un modal."
+      },
+      {
+        "pregunta": "Complete: He _____ the city next month.",
+        "opciones": [
+          "will leave",
+          "will left",
+          "will leaving",
+          "will leaves"
+        ],
+        "respuesta": "will leave",
+        "explicacion": "El verbo 'leave' en su forma base es el único que puede acompañar al auxiliar 'will'."
+      }
+    ]
+  }
+}
